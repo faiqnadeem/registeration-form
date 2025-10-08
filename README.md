@@ -3,8 +3,7 @@
 A simple Python desktop application built with Tkinter and MySQL for managing student registrations.
 Users can input student details such as name, email, age, and course, which are then securely stored in a MySQL database.
 
-# Features:
-
+<b> Features: </b>
 GUI-based student registration form using Tkinter
 
 MySQL integration for data storage
